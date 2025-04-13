@@ -1,0 +1,271 @@
+{
+  "name": "Pradip Dhungana",
+  "logo_name": "pradip-dhungana",
+  "role": "Full-Stack developer",
+  "tech_stack": {
+    "frontEnd": [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Astro"
+    ],
+    "backEnd": [
+      "Node.js",
+      "Python",
+      "Django",
+      "PHP",
+      "Laravel",
+      "C",
+      "C++",
+      "Java"
+    ],
+    "databases": ["PostgreSQL", "MySQL"],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "CI/CD",
+      "Linux",
+      "Vim",
+      "Postman",
+      "LaTeX"
+    ]
+  },
+  "about": {
+    "sections": {
+      "professional-info": {
+        "title": "professional-info",
+        "icon": "icons/info-professional.svg",
+        "info": {
+          "experience": {
+            "title": "experience",
+            "description": "<br>Explore my professional roles below.",
+            "files": {
+              "resume": {
+                "title": "My Resume",
+                "pdfUrl": "/resume.pdf"
+              },
+              "sera-digital-hub": {
+                "title": "SERA DIGITAL HUB - Backend Developer",
+                "date": "Dec 2024 - Mar 2025",
+                "content": "<ul><li>Developed and maintained websites like <a href='https://sera.com.np'>sera.com.np</a>, <a href='https://sera.edu.np'>sera.edu.np</a>, and <a href='https://jobs.sera.com.np'>jobs.sera.com.np</a> using Astro, PHP, MySQL.</li><li>Collaborated on scalable backend solutions.</li><li>Enhanced teaching with real-world development insights.</li></ul>",
+                "projects": [
+                  {
+                    "title": "SERA Main Website",
+                    "url": "https://sera.com.np",
+                    "description": "Main corporate website for SERA Digital Hub."
+                  },
+                  {
+                    "title": "SERA Education",
+                    "url": "https://sera.edu.np",
+                    "description": "Educational platform for SERA."
+                  },
+                  {
+                    "title": "SERA Jobs",
+                    "url": "https://jobs.sera.com.np",
+                    "description": "Job portal for SERA opportunities."
+                  }
+                ]
+              },
+              "gyansagar-academy": {
+                "title": "Gyansagar Academy - Secondary Level Teacher",
+                "date": "Nov 2020 - Jul 2021",
+                "content": "<ul><li>Managed school’s website and app as IT Head.</li><li>Taught Mathematics, Computer Science, and Occupation Studies.</li><li>Implemented digital tools for better learning experiences.</li></ul>",
+                "profileLink": {
+                  "title": "View Profile",
+                  "url": "https://gyansagaracademy.com"
+                }
+              },
+              "tedx-ncit": {
+                "title": "TEDxNCIT - Co-Organizer",
+                "date": "Mar 2024 - Dec 2024",
+                "content": "<ul><li>Organized TEDx event at NCIT, handling planning and execution.</li><li>Ensured TEDx licensing compliance.</li><li>Contributed to website development and speaker coaching.</li><li>Managed event logistics for success.</li></ul>",
+                "projects": [
+                  {
+                    "title": "TEDxNCIT Website",
+                    "url": "https://tedx.ncit.edu.np",
+                    "description": "Official website for TEDxNCIT, built with Astro, TypeScript, and TailwindCSS."
+                  }
+                ]
+              },
+              "tedx-kamal-pokhari": {
+                "title": "TEDxKamal Pokhari - Head of Marketing",
+                "date": "Oct 2023 - Mar 2024",
+                "content": "<ul><li>Led marketing and communication strategies.</li><li>Managed sponsorships and partnerships.</li><li>Coordinated promotions and event execution.</li></ul>",
+                "projects": [
+                  {
+                    "title": "TEDxKamal Pokhari Website",
+                    "url": "https://tedxkamalpokhari.vercel.app/",
+                    "description": "Official website for TEDxKamal Pokhari, designed and developed by me."
+                  }
+                ]
+              }
+            }
+          },
+          "hard-skills": {
+            "title": "hard-skills",
+            "description": "<br>As a full-stack developer, I have experience with languages including Python, Java, JavaScript, TypeScript, PHP, C#, C, and C++. <br><br> My framework and library knowledge encompasses Astro, Django, React, jQuery, Tailwind CSS, and data science tools like Pandas, NumPy, Matplotlib, Scikit-Learn, and TensorFlow. I'm also proficient with databases such as SQL, MySQL, PostgreSQL, NoSQL, and MongoDB, as well as cloud services like AWS (EC2, Lambda, S3)."
+          },
+          "soft-skills": {
+            "title": "soft-skills",
+            "description": "<br>I bring organization and leadership skills developed through my role as Co-Organizer for TEDxNCIT and Head of Marketing and Communication for TEDxKamal Pokhari. <br><br> My experience in teaching has also honed my communication and presentation abilities, allowing me to explain complex technical concepts in accessible ways. Through collaborative projects, I've developed strong teamwork skills and the ability to work effectively under pressure."
+          }
+        }
+      },
+      "personal-info": {
+        "title": "personal-info",
+        "icon": "icons/info-personal.svg",
+        "info": {
+          "bio": {
+            "title": "bio",
+            "description": "<br> About me <br> I am a final year Software Engineering student at Nepal College of Information Technology with experience in full-stack development. My professional background includes working as a Backend Developer at SERA DIGITAL HUB and teaching at Gyansagar Academy. <br><br> I am passionate about creating efficient, user-friendly solutions through software development and have successfully worked on projects like PulsePath, FoodFind, and TEDxNCIT website. I'm also actively involved in organizing events like TEDx to foster knowledge sharing and community engagement."
+          },
+          "interests": {
+            "title": "interests",
+            "description": "<br>I am constantly learning and expanding my skills in software development, with a particular interest in web development and creating impactful solutions."
+          },
+          "education": {
+            "title": "education",
+            "description": "<br>My academic journey is summarized below.",
+            "content": [
+              {
+                "title": "Karunanidhi Education Foundation",
+                "date": "Completed 2020",
+                "points": "<ul><li>Completed high school education with a focus on science and mathematics.</li></ul>"
+              },
+              {
+                "title": "Nepal College of Information Technology",
+                "date": "Mar 2021 - Present",
+                "points": "<ul><li>Pursuing Bachelor’s in Software Engineering (Final Year).</li><li>Awarded full scholarship by Pokhara University.</li></ul>"
+              }
+            ]
+          }
+        }
+      },
+      "hobbies-info": {
+        "title": "hobbies-info",
+        "icon": "icons/info-hobbies.svg",
+        "info": {
+          "music": {
+            "title": "music",
+            "description": "<br>I have a deep appreciation for music, enjoying both old and new songs, especially classic Nepali tracks that hold a timeless charm. <br> Lately, I have been dedicating time to learning the guitar, exploring its melodies and building my musical skills. This pursuit not only provides a creative escape but also enhances my understanding of rhythm and harmony."
+          },
+          "anime-and-books": {
+            "title": "anime-and-books",
+            "description": "<br>I am an avid fan of anime and manga, immersing myself in their rich storytelling, unique art styles, and thought-provoking themes. <br> Additionally, I enjoy reading books, constantly expanding my knowledge and engaging with different genres to fuel my imagination and intellect."
+          }
+        }
+      }
+    }
+  },
+  "contacts": {
+    "direct": {
+      "title": "contacts",
+      "sources": {
+        "email": "dhungana.pradip188",
+        "phone": "+977 9806763754"
+      }
+    },
+    "social": {
+      "github": {
+        "title": "Github profile",
+        "url": "https://github.com/",
+        "user": "dhunganaPradeep"
+      },
+      "instagram": {
+        "title": "Instagram Account",
+        "url": "https://www.instagram.com/",
+        "user": "pradeep_dhungana"
+      }
+    },
+    "find_me_also_in": {
+      "title": "find-me-also-in",
+      "sources": {
+        "Linkedin": {
+          "title": "Linkedin",
+          "url": "https://www.linkedin.com/in/",
+          "user": "thatguypradip"
+        }
+      }
+    }
+  },
+  "projects": {
+    "1": {
+      "title": "_PulsePath",
+      "description": "Web app optimizing emergency response operations for ambulance services with secure login and real-time navigation.",
+      "img": "/images/projects/pulsepath.png",
+      "tech": ["PHP", "Python", "MySQL", "JavaScript"],
+      "url": "https://github.com/dhunganaPradeep/PulsePath"
+    },
+    "2": {
+      "title": "_FoodFind",
+      "description": "Web app for discovering restaurants in Kathmandu Valley with Google Auth, user reviews, and location search.",
+      "img": "/images/projects/foodfind.png",
+      "tech": ["React", "TypeScript", "Django REST"],
+      "url": "https://github.com/dhunganaPradeep/FoodFindBE"
+    },
+    "3": {
+      "title": "_TEDxNCIT",
+      "description": "Official website for TEDxNCIT showcasing events and speakers with optimized performance.",
+      "img": "/images/projects/tedxncit.png",
+      "tech": ["Astro", "TypeScript", "TailwindCSS"],
+      "url": "https://tedx.ncit.edu.np/"
+    },
+    "4": {
+      "title": "_Movie Alchemy",
+      "description": "Movie Recommendation System providing personalized suggestions based on the TMDB dataset.",
+      "img": "/images/projects/moviealchemy.png",
+      "tech": ["Python", "StreamLit"],
+      "url": "https://github.com/dhunganaPradeep/Movie-Alchemy"
+    },
+    "5": {
+      "title": "_Arogya",
+      "description": "A web app providing detailed information on medicinal herbs found in Nepal, including their uses..",
+      "img": "/images/projects/arogyaa.png",
+      "tech": ["Vite", "Typescript", "React", "Tailwind CSS"],
+      "url": "https://arogyaa.vercel.app/"
+    },
+    "6": {
+      "title": "_MatchMate",
+      "description": "A web-based multiplayer game built with ASP.NET Framework, powered by SignalR for real-time interactions.",
+      "img": "/images/projects/matchmate.png",
+      "tech": ["ASP.NET Framework", "SignalR", "SQL Server", "C#"],
+      "url": "https://github.com/dhunganaPradeep/MatchMate"
+    }
+  },
+  "milestones": {
+    "1": {
+      "title": "Backend Developer at SERA",
+      "date": "December 2024 - March 2025",
+      "description": "Worked as a Backend Developer, contributing to various projects and enhancing my skills."
+    },
+    "2": {
+      "title": "TEDxNCIT - Co-Organizer",
+      "date": "April 2024 - December 2024",
+      "description": "Co-organized TEDx event at NCIT, handling planning and execution as well developing the website."
+    },
+    "3": {
+      "title": "NCIT Hackfest Runner-Up",
+      "date": "2024",
+      "description": "Secured second runner-up in a 3-day hackathon by NOSK at NCIT."
+    },
+    "4": {
+      "title": "Joined TEDxKamal Pokhari",
+      "date": "October 2023 - March 2024",
+      "description": "Led marketing efforts, enhancing event visibility and engagement."
+    },
+    "5": {
+      "title": "Started Software Engineering Degree",
+      "date": "March 2021 - Present",
+      "description": "Began my journey at Nepal College of Information Technology with a full scholarship."
+    },
+    "6": {
+      "title": "Pokhara University Scholarship",
+      "date": "2021",
+      "description": "Awarded a full scholarship for studying Software Engineering at Nepal College of Information Technology."
+    }
+  }
+}
