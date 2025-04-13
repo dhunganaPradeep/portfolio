@@ -212,7 +212,12 @@ export default {
   props: {
     milestone: {
       type: Object,
-      required: true
+      required: true,
+      default: () => ({
+        title: 'Placeholder',
+        date: '',
+        description: ''
+      })
     }
   },
   data() {

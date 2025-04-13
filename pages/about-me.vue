@@ -200,7 +200,6 @@
     </div>
     <!-- MENU END -->
 
-    <!-- content -->
 <!-- content -->
 <div class="flex flex-col lg:grid lg:grid-cols-2 h-full w-full">
       <div id="left" class="w-full flex flex-col border-right">

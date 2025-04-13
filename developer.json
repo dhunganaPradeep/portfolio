@@ -236,36 +236,36 @@
       "url": "https://github.com/dhunganaPradeep/MatchMate"
     }
   },
-  "milestones": {
-    "1": {
-      "title": "Backend Developer at SERA",
-      "date": "December 2024 - March 2025",
-      "description": "Worked as a Backend Developer, contributing to various projects and enhancing my skills."
-    },
-    "2": {
-      "title": "TEDxNCIT - Co-Organizer",
-      "date": "April 2024 - December 2024",
-      "description": "Co-organized TEDx event at NCIT, handling planning and execution as well developing the website."
-    },
-    "3": {
-      "title": "NCIT Hackfest Runner-Up",
-      "date": "2024",
-      "description": "Secured second runner-up in a 3-day hackathon by NOSK at NCIT."
-    },
-    "4": {
-      "title": "Joined TEDxKamal Pokhari",
-      "date": "October 2023 - March 2024",
-      "description": "Led marketing efforts, enhancing event visibility and engagement."
-    },
-    "5": {
-      "title": "Started Software Engineering Degree",
-      "date": "March 2021 - Present",
-      "description": "Began my journey at Nepal College of Information Technology with a full scholarship."
-    },
-    "6": {
-      "title": "Pokhara University Scholarship",
-      "date": "2021",
-      "description": "Awarded a full scholarship for studying Software Engineering at Nepal College of Information Technology."
-    }
+"milestones": [
+  {
+    "title": "Backend Developer at SERA",
+    "date": "December 2024 - March 2025",
+    "description": "Worked as a Backend Developer, contributing to various projects and enhancing my skills."
+  },
+  {
+    "title": "TEDxNCIT - Co-Organizer",
+    "date": "April 2024 - December 2024",
+    "description": "Co-organized TEDx event at NCIT, handling planning and execution as well developing the website."
+  },
+  {
+    "title": "NCIT Hackfest Runner-Up",
+    "date": "2024",
+    "description": "Secured second runner-up in a 3-day hackathon by NOSK at NCIT."
+  },
+  {
+    "title": "Joined TEDxKamal Pokhari",
+    "date": "October 2023 - March 2024",
+    "description": "Led marketing efforts, enhancing event visibility and engagement."
+  },
+  {
+    "title": "Started Software Engineering Degree",
+    "date": "March 2021 - Present",
+    "description": "Began my journey at Nepal College of Information Technology with a full scholarship."
+  },
+  {
+    "title": "Pokhara University Scholarship",
+    "date": "2021",
+    "description": "Awarded a full scholarship for studying Software Engineering at Nepal College of Information Technology."
   }
+]
 }
