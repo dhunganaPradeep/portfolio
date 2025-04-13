@@ -1,0 +1,42 @@
+name: Deploy Nuxt to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Generate static site
+        run: yarn generate
+
+      - name: Copy dist to root
+        run: |
+          rm -rf .git # Remove existing .git to avoid conflicts
+          cp -r dist/* . # Copy dist contents to root
+          touch .nojekyll # Ensure .nojekyll is present
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Commit and push changes
+        run: |
+          git init
+          git add .
+          git commit -m "Deploy static site to root"
+          git branch -M main
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/dhunganaPradeep/portfolio.git
+          git push --force origin main
