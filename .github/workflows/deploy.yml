@@ -29,6 +29,7 @@ jobs:
           mkdir -p docs
           cp -r dist/* docs/
           touch docs/.nojekyll
+          echo "dhunganapradip.com.np" > docs/CNAME
 
       - name: Commit and push changes
         run: |
