@@ -9,6 +9,7 @@ const siteTitle = `${config.name} | ${config.role}`
 export default defineNuxtConfig({
   compatibilityDate: '2025-02-28',
   devtools: { enabled: true },
+  target: 'static',
   /**
    * * App Config
    * app config: https://nuxt.com/docs/api/configuration/nuxt-config#app
@@ -20,6 +21,7 @@ export default defineNuxtConfig({
    * TODO: Migrate apple-touch-icon config to manifest.json
    */
   app: {
+    baseURL: '/portfolio/', // Base URL for the app
     head: {
       htmlAttrs: {
         lang: 'en', // App language
@@ -31,10 +33,9 @@ export default defineNuxtConfig({
         { hid: 'description', name: 'description', content: 'Personal Portfolio of Pradip Dhungana.' },
         { hid: 'og:title', property: 'og:title', content: siteTitle },
         { hid: 'og:description', property: 'og:description', content: 'Personal Portfolio of Pradip Dhungana.' },
-        { hid: 'og:image', property: 'og:image', content: 'demo-share.jpg' },
+        { hid: 'og:image', property: 'og:image', content: '/demo-share.jpg' },
         { hid: 'og:url', property: 'og:url', content: 'https://dhunganapradip.com.np/' },
         { name: 'theme-color', content: '#010C15' },
-        // ...
       ],
       link: [
         { rel: 'manifest', href: 'pwa/manifest.json' },
