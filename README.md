@@ -32,13 +32,13 @@
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/your-portfolio-repo.git
+git clone https://github.com/dhunganaPradeep/portfolio.git
 ```
 
 2. Navigate to the project directory:
 
 ```sh
-cd your-portfolio-repo
+cd portfolio
 ```
 
 3. Install the required dependencies:
