@@ -6,12 +6,6 @@
   My personal portfolio website, showcasing my skills, projects, and contact information in a unique and interactive way. Built with <a href="https://nuxt.com/" target="_blank">Nuxt.js 3.0</a>, this portfolio includes a custom terminal interface on the home page for an engaging user experience.
 </p>
 
-<div align="center">
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6fa55804-6799-419f-9222-359ba49c5e4c/deploy-status)](https://app.netlify.com/sites/developer-portfolio-v2/deploys)
-
-</div>
-
 <p align="center">
   <a href="" target="_blank">
     <img src="./public/images/demo-share.png" />
