@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  My personal portfolio website, showcasing my skills, projects, and contact information in a unique and interactive way. Built with <a href="https://nuxt.com/" target="_blank">Nuxt.js 3.0</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>, this portfolio includes a custom terminal interface on the home page for an engaging user experience.
+  My personal portfolio website, showcasing my skills, projects, and contact information in a unique and interactive way. Built with <a href="https://nuxt.com/" target="_blank">Nuxt.js 3.0</a>, this portfolio includes a custom terminal interface on the home page for an engaging user experience.
 </p>
 
 <div align="center">
